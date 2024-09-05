@@ -5,20 +5,14 @@ Create a basic database of cafe and amenities info using Flask and SQLalchemy. W
 |  | Description |
 | ----------- | ----------- |
 | Languages | Python, HTML, CSS |
-| Python Libraries | Flask, Flask-Bootstrap (BS 5), SQLAlchemy, Jinja, WTForms |
+| Python Libraries | Flask, Jsonify, Request, SQLAlchemy |
 
-Codes Summary (how does it work):
--
-- text text 
 
 How to run the file:
 -
-Clone the repo and execute main.py.
-Go to your browser and paste the local port address --> http://127.0.0.1:5000.
-
-Demo video:
--
-
+- Clone the repo and execute main.py.
+- Go to your browser and paste the local port address --> http://127.0.0.1:8080.
+- Access to the [API documentation](https://documenter.getpostman.com/view/36569418/2sA3dskDUE) and try to retrieve cafe data from this page. 
 
 
 
